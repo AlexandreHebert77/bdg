@@ -76,3 +76,15 @@ header .slogan {
   margin-block-start: 0em;
   padding-inline-start: 0px;
 }
+
+.p {
+  text-align: justify;
+}
+
+#bodyspe {
+  background-image: url(palais4.jpg);
+  background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	align-items: center;
+}

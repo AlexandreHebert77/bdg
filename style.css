@@ -48,3 +48,24 @@ header .slogan {
 		display: none;
 	}
 }
+
+.boullay {
+  width: 80%;
+  height: auto;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.gaullier {
+  width: 67%;
+  height: auto;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.boscher {
+  width: 90%;
+  height: auto;
+  justify-content: center;
+  vertical-align: middle;
+}

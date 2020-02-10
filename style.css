@@ -29,15 +29,14 @@ header .row {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	align-items: center;
-	color: white;
+	color: #8C1924;
 
 }
 
 header .formReservation {
-	background-color: rgba(0,0,0,0);
+	background-color: rgba(0,0,0,0.5);
 	min-height: 70vh;
 	display: flex;
-
 	font-family: 'Raleway', sans-serif;
 }
 

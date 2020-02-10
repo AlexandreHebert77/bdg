@@ -71,5 +71,8 @@ header .slogan {
 }
 
 .finMenu{
-  margin: 0px;
+  margin-right: 0px;
+  margin-block-end: 0em;
+  margin-block-start: 0em;
+  padding-inline-start: 0px;
 }

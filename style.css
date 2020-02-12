@@ -16,7 +16,7 @@
 
 header .row {
 	min-height: 70vh;
-	background-image: url(ville2.jpg);
+	background-image: url(/img/ville2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -82,7 +82,7 @@ header .slogan {
 }
 
 #bodyspe {
-  background-image: url(palais4.jpg);
+  background-image: url(/img/palais4.jpg);
   background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;

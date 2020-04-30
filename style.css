@@ -95,3 +95,14 @@ header .slogan {
 	background-attachment: fixed;
 	align-items: center;
 }
+
+.matos {
+  justify-content: center;
+  text-align: center;
+  color: #c83142;
+  font-size: 15px;
+}
+
+.Contact {
+  margin-left: 20px;
+}

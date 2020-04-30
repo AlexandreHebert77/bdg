@@ -106,3 +106,13 @@ header .slogan {
 .Contact {
   margin-left: 20px;
 }
+
+
+.h33 {
+  justify-content: center;
+  text-align: center;
+}
+
+.mail {
+  color: #c83142;
+}

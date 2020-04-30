@@ -30,6 +30,7 @@ header .formReservation {
 	min-height: 70vh;
 	display: flex;
 	font-family: 'Raleway', sans-serif;
+  color: #c83142;
 }
 
 header h2 {
@@ -79,6 +80,12 @@ header .slogan {
 
 .p {
   text-align: justify;
+  font-size: 50px;
+}
+
+#p {
+  text-align: justify;
+  font-size: 20px;
 }
 
 #bodyspe {

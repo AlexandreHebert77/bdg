@@ -14,7 +14,7 @@
 /* //////////////////////// */
 
 
-header .row {
+/* header .row {
 	min-height: 70vh;
 	background-image: url(/img/ville2.jpg);
 	background-size: cover;
@@ -23,7 +23,7 @@ header .row {
 	align-items: center;
 	color: #8C1924;
 
-}
+} */
 
 header .formReservation {
 	background-color: rgba(0,0,0,0.2);

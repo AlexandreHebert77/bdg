@@ -16,7 +16,7 @@
 
 header .row {
 	min-height: 70vh;
-	background-image: url(bdg/img/ville2.jpg);
+	background-image: url(img/ville2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
